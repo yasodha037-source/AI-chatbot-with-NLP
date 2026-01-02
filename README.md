@@ -35,3 +35,6 @@ Sources and references include official documentation for Python (https://www.py
 
 In conclusion, this AI Chatbot project demonstrates a practical application of natural language processing in creating intelligent conversational agents. It combines a clean, user-friendly web interface with a backend capable of understanding flexible user input through NLP-based similarity matching. The project provides a foundational platform that can be further expanded with advanced machine learning models or API-based AI engines for more sophisticated conversational abilities. The modular design, use of open-source tools, and simplicity of the frontend ensure easy maintenance, scalability, and adaptability for future improvements.
 
+*OUTPUT*:
+
+<img width="1901" height="946" alt="Image" src="https://github.com/user-attachments/assets/33174371-7b21-47c7-8457-16be2cb4bf83" />
